@@ -1,0 +1,59 @@
+# China Physical AI · Intelligence Layer
+
+**Inside China AI · insidechinaai.substack.com · April 2026**
+*By Gabrielle Chou*
+
+---
+
+## What this is
+
+An interactive intelligence layer covering 66 Chinese Physical AI companies, 
+scored across 15 dimensions — six layers of the technology stack, four machine 
+types, and five application sectors.
+
+Companion dataset to the visual argument:
+**China Isn't Building Robots. It's Installing Operating Systems.**
+
+---
+
+## What the data contains
+
+- Western Exposure Score (0–10) for each company
+- Funding stage and public listing status
+- Named Western customers and investors
+- Export certification (CE, FDA, FCC, CAAC)
+- Compliance flags — Entity List and OFAC SDN status
+- One-line analytical signal per company
+
+## How to use it
+
+Open index.html in any browser.
+Filter by sector, Western exposure level, or compliance status.
+Search by company name, cluster, or named customer.
+Click column headers to sort.
+
+---
+
+## Methodology
+
+Western Exposure Score is a weighted composite:
+- Named Western customer +4
+- Western investor +3
+- Export certification +1
+- Foreign customer unnamed +1
+- International founder degree +1
+
+Stack Score: weighted importance across 15 dimensions covering six tech 
+stack layers, four machine types, and five application sectors.
+
+Data confidence: ●●● verified multiple independent sources · 
+●● single credible source · ● estimated.
+
+---
+
+## Source
+
+Inside China AI · insidechinaai.substack.com
+© Gabrielle Chou · April 2026
+
+Full methodology and narrative analysis available to subscribers.
